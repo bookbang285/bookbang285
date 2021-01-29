@@ -8,7 +8,7 @@
 
 My name is Rattanan Sakulratchata. I’m 21 years old.I graduated with a Vocational Certificate (Voc. Cert.) in Electrical Power :zap: from ATE Shcool:school:  .Now I'm studying in Bachelor's degree of Electronics Engineering Technology(Computer):technologist: at King Mongkut's University of Technology North Bangkok.
 
-[Fackbook](https://www.facebook.com/XLomxC/)
+[Facebook](https://www.facebook.com/XLomxC/)
 
 [Codewars](https://www.codewars.com/users/bookbang285)
 <!--
