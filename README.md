@@ -9,13 +9,8 @@ My name is Rattanan Sakulratchata. I’m 21 years old.I graduated with a Vocatio
 ### Connect with me:
 
 [<img align="left" alt="xlomxc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="gnabkoob | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [Codewars](https://www.codewars.com/users/bookbang285)
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Bookbang Spotify Playing" width="350" />](https://open.spotify.com/user/22bm5q2ybxyk35n6b7kzy3qoq)
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
