@@ -8,8 +8,11 @@ My name is Rattanan Sakulratchata. I’m 21 years old.I graduated with a Vocatio
 
 ### Connect with me:
 
+
+[<img align="left" alt="XLomxC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="xlomxc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gnabkoob | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 [Codewars](https://www.codewars.com/users/bookbang285)
 
 - 🔭 I’m currently working on ...
